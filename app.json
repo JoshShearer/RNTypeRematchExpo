@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LSBase",
-    "slug": "LSBase",
+    "name": "RNTypeRematchExpo",
+    "slug": "RNTypeRematchExpo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
